@@ -1,2 +1,2 @@
 # userpurchasepreds
-Megafon predictions of user purchases
+Predicting probability of buying an additional service. Anonymized database of Megafon users. 
